@@ -1,0 +1,54 @@
+[
+    {
+      "title": "Dicas para ter cachos mais Definidos",
+      "text": [
+        "- Produtos Certos: Use shampoo e condicionador específicos para cachos.",
+        "- Hidratação Semanal: Hidrate com máscaras profundas.",
+        "- Finalizadores: Aplique leave-in ou creme para pentear no cabelo úmido.",
+        "- Técnicas de Finalização: Use fitagem, dedoliss ou plopping.",
+        "- Secagem Adequada: Seque com camiseta de algodão e use difusor.",
+        "- Corte Regular: Prefira cortes em camadas.",
+        "- Evite Calor Excessivo: Reduza o uso de chapinhas e secadores."
+
+      ],
+      "image": "/cabelo1.jpg",
+      "tags": ["Definição", "cachos"]
+    },
+    {
+      "title": "Umectação nos Cachos",
+      "text": [
+        "A umectação capilar é um tratamento intensivo de hidratação profunda, ideal para cabelos cacheados, que tendem a ser mais secos devido à sua estrutura em espiral.",
+        "Consiste na aplicação de óleos vegetais (como coco, rícino, abacate e oliva) no cabelo seco, deixando agir por algumas horas ou durante a noite.",
+        "Óleos penetram na fibra capilar, proporcionando maciez, brilho, maleabilidade e redução do frizz e pontas duplas.",
+        "Após o tempo de ação, lavar com shampoo e aplicar condicionador para selar as cutículas. Pode ser feita semanalmente ou conforme a necessidade."
+      ],
+      "image": "/cabelo2.jpg",
+      "tags": ["Umectação", "oléos"]
+    },
+    {
+      "title": "Cuidados no frio",
+      "text": [
+        "Cuidar dos cachos no frio requer hidratação extra e proteção contra o ressecamento.",
+        "Use máscaras hidratantes semanalmente.",
+        "Aplique óleos ou cremes leave-in para selar a umidade.",
+        "Evite lavar com água quente, prefira morna ou fria.",
+        "Proteja os fios com toucas ou chapéus ao sair."
+      ],
+      "image": "/cabelo3.jpg",
+      "tags": ["frio", "cachos"]
+    },
+    {
+      "title": "Cachos com Química",
+      "text": [
+       "Cuidar dos cachos com química exige atenção redobrada para evitar danos e manter a saúde dos fios.",
+        "dicas",
+        "Realize hidratações profundas semanalmente.",
+        "Use produtos específicos para cabelos quimicamente tratados.",
+        "Evite o uso excessivo de ferramentas de calor.",
+        "Corte as pontas regularmente para evitar quebras.",
+        "Aplique protetores térmicos antes de usar secadores ou chapinhas."
+      ],
+      "image": "/cabelo4.jpg",
+      "tags": ["Cachos", "química"]
+    }
+  ]
